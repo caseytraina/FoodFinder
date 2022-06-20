@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to Food Finder
+**A Personal Development Casey Traina**
 
-You can use the [editor on GitHub](https://github.com/caseytraina/FoodFinder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Food Finder is an app that seeks food equity. Currently exclusive to the Bay Area, Food Finder allows users to easily find the nearest soup kitchen, food pantry, or grocery store.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Despite the name, Food Finder is not, however, limited only to food. Come and find overnight shelters, educational support, drug rehabilition, employment assistance, and so much more!
 
-### Markdown
+### Map
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our home screen is intuitive and clear. Each location is categorized by a different symbol and color.
 
-```markdown
-Syntax highlighted code block
+### Locations
 
-# Header 1
-## Header 2
-### Header 3
+- Red Fork and Knife symbolizes a Soup Kitchen
+- Purple House symbolizes a Food Pantry
+- Blue Double Bed symbolizes an Overnight Shelter
+- Green House symbolizes all other locations
 
-- Bulleted
-- List
+Note: Please read business bios carefully before showing up!
 
-1. Numbered
-2. List
+### Questions? We'd love to hear them! Please reach out!
+### Contact
 
-**Bold** and _Italic_ and `Code` text
+Feel free to email me with any concerns or suggestions at caseytraina@gmail.com!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caseytraina/FoodFinder/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Food Finder is not liable for any injuries sustained, damages, or other incidents. Food Finder is a medium of exposure for local businesses, done completely with consent of both the business and the user; all further interactions are not affiliated with Food Finder*
