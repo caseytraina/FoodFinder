@@ -1,0 +1,222 @@
+[
+    {
+        "id" : 1,
+        "name" : "Groceries For Seniors",
+        "phoneNumber" : "415-309-0951",
+        "website" : "http://www.groceriesforseniors.org",
+        "latitude" : 37.792660,
+        "longitude" : -122.405730,
+        "type" : "Food Pantry",
+        "bio" : "Groceries for Seniors is a community based non-profit organization that provides free food to poor, elderly people in San Francisco. The City has approximately 40,000 seniors whose income level falls below the federal poverty line. Our clients live with the daily threat of hunger. Being food-insecure can worsen chronic health problems that can in turn lead to the hospitalization. Food is a basic human need and without an adequate diet, people cannot fight off disease and infection. Low income seniors must often choose between purchasing food, or buying medicine to keep from getting sick. Groceries for Seniors distributes nutritious fresh food to approximately 1,000 senior citizens in San Francisco every week. Without our help, many of our elderly neighbors would go hungry.",
+        "imageURL" : "https://www.homelessshelterdirectory.org/gallery/no_photo_food_4.jpg",
+        "address" : "660 California St, San Francisco, CA 94108",
+        "requirements" : ["Seniors Only"],
+        "hours" : {
+            "monday" : "9AM-12PM",
+            "tuesday" : "9AM-12PM",
+            "wednesday" : "9AM-12PM",
+            "thursday" : "9AM-12PM",
+            "friday" : "closed",
+            "saturday" : "closed",
+            "sunday" : "closed"
+        }
+      },
+      {
+        "id" : 2,
+        "name" : "Bayview TLC Family Resource Center",
+        "phoneNumber" : "415-822-9404",
+        "website" : "https://twitter.com/bayviewymca",
+        "latitude" : 37.731790,
+        "longitude" : -122.389660,
+        "type" : "Food Pantry",
+        "bio" : "Bayview TLC Family Resource Center is a food pantry. Must live in 94124 zip code. ID required. Bring a bag. Food pantry service hours: Th 3-5pm. * Make sure you check by calling the food pantry to confirm that they still are in operation and the hours have not changed",
+        "imageURL" : "https://www.homelessshelterdirectory.org/gallery/no_photo_food_1.jpg",
+        "address" : "1601 Lane St, San Francisco, CA",
+        "requirements" : ["Photo ID", "94124 Zip Code"],
+        "hours" : {
+            "monday" : "closed",
+            "tuesday" : "closed",
+            "wednesday" : "closed",
+            "thursday" : "3PM-5PM",
+            "friday" : "closed",
+            "saturday" : "closed",
+            "sunday" : "closed"
+        }
+      },
+      {
+        "id" : 3,
+        "name" : "Booker T. Washington Community Service Center",
+        "phoneNumber" : "415-928-6596",
+        "website" : "https://btwcsc.org/",
+        "latitude" : 37.784240,
+        "longitude" : -122.445970,
+        "type" : "Food Pantry",
+        "bio" : "Booker T. Washington Community Services Center is a food pantry.",
+        "imageURL" : "https://www.homelessshelterdirectory.org/gallery/7023_ca_booker-t-washington-community-svce-center_fwd.png",
+        "address" : "800 Presidio Avenue, San Francisco, CA 94115",
+        "requirements" : ["Photo ID"],
+        "hours" : {
+            "monday" : "closed",
+            "tuesday" : "closed",
+            "wednesday" : "11AM-1PM",
+            "thursday" : "closed",
+            "friday" : "closed",
+            "saturday" : "closed",
+            "sunday" : "closed"
+        }
+      },
+    {
+        "id" : 4,
+        "name": "Compass Family Services",
+        "phoneNumber": "4156440504",
+        "website": "www.compass-sf.org",
+        "latitude" : 37.778650,
+        "longitude" : -122.416340,
+        "type": "Overnight Shelter",
+        "bio": "Compass helps homeless families and those at imminent risk to achieve housing stability, economic self-sufficiency, and well-being. We operate 11 direct-service programs including the Central City Access Point which assesses families for slots in the city's shelter and housing programs. Additionally, our programs include family shelter, transitional supportive housing, rapid rehousing, mental health services, family resource center, childcare center, and much more.",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/foodfiner-b0be7.appspot.com/o/CFS_main_logo%20-%20Abbey%20Leonard.jpg?alt=media&token=e94a76e2-7ebc-4553-a6ad-ee33fea8c72b",
+        "address" : "37 Grove Street, San Francisco, CA 94102",
+        "requirements": ["Families with one legal adult and one legal child or pregnant"],
+        "hours": {
+            "monday" : "9AM-12PM and 1PM-5PM",
+            "tuesday" : "9AM-12PM",
+            "wednesday" : "9AM-12PM and 1PM-5PM",
+            "thursday" : "9AM-12PM and 1PM-5PM",
+            "friday" : "9AM-12PM and 1PM-5PM",
+            "saturday" : "closed",
+            "sunday" : "closed"
+        }
+    },
+    {
+        "id" : 5,
+        "name": "Community Education Partnerships",
+        "phoneNumber": "7327424506",
+        "website": "www.cep.ngo",
+        "type": "Educational support",
+        "latitude" : 37.818320,
+        "longitude" : -122.266590,
+        "bio": "Community Education Partnerships (CEP) provides educational support (backpacks, school supplies, books, tutoring, mentoring, group programs) to children experiencing homelessness and housing insecurity. ",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/foodfiner-b0be7.appspot.com/o/color%20stack%20-%20Erica%20Mohan.png?alt=media&token=4f1f675e-53fe-4e48-8477-fd6506b522a6",
+        "address": "2909 McClure St., Oakland, CA 94609",
+        "requirements": ["None!"],
+        "hours": {
+            "monday" : "10AM-6PM",
+            "tuesday" : "10AM-6PM",
+            "wednesday" : "10AM-6PM",
+            "thursday" : "10AM-6PM",
+            "friday" : "10AM-6PM",
+            "saturday" : "closed",
+            "sunday" : "closed"
+        }
+    },
+    {
+        "id" : 6,
+        "name": "Community Services Agency",
+        "phoneNumber": "6509644630",
+        "website": "https://www.csacares.org/",
+        "type": "Food Pantry",
+        "latitude" : 37.397030,
+        "longitude" : -122.078499,
+        "bio": "We are the community's safety net, providing critical support services that preserve and promote stability, self-reliance and dignity.",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/foodfiner-b0be7.appspot.com/o/1128_CSA%20Logo_cmyk%20-%20LaDrea%20Clark.jpg?alt=media&token=efeacb5b-1098-4603-9011-1ebaf4c286a7",
+        "address": "204 Stierlin Rd, Mountain View, CA 94043",
+        "requirements": ["Food: Must work in Mountain View", "Other Services: Resident of Mountain View, Los Altos, Los Altos Hills"],
+        "hours": {
+            "monday" : "9AM-12PM; 1:30PM-4PM",
+            "tuesday" : "9AM-12PM; 1:30PM-4PM",
+            "wednesday" : "9AM-12PM; 1:30PM-4PM",
+            "thursday" : "9AM-12PM; 1:30PM-4PM",
+            "friday" : "9AM-12PM; 1:30PM-4PM",
+            "saturday" : "closed",
+            "sunday" : "closed"
+        }
+    },
+    {
+        "id" : 7,
+        "name": "St. Marys Center",
+        "phoneNumber": "5109239600",
+        "website": "www.stmaryscenter.org",
+        "type": "Meal Program",
+        "latitude" : 37.823120,
+        "longitude" : -122.276640,
+        "bio": "For low income persons age 55 and above we offer hot lunch for a $1 Monday through Friday and Sundays. Purchase your ticket at 11:00 am. We also offer free hot breakfast Monday through Friday at 9:30 am.",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/foodfiner-b0be7.appspot.com/o/smc%20logo%20new%20-%20Janny%20Castillo.png?alt=media&token=1b19aee3-e6b4-4d1e-8b3e-e06123963fcb",
+        "address": "925 Brockhurst Street, Oakland, CA 94608",
+        "requirements": ["Seniors Age 55 and Older."],
+        "hours": {
+            "monday" : "9:30AM-1PM",
+            "tuesday" : "9:30AM-1PM",
+            "wednesday" : "9:30AM-1PM",
+            "thursday" : "9:30AM-1PM",
+            "friday" : "9:30AM-1PM",
+            "saturday" : "closed",
+            "sunday" : "11AM-2PM"
+        }
+    },
+    {
+        "id" : 8,
+        "name": "Samaritan House",
+        "phoneNumber": "6503473648",
+        "website": "www.samaritanhousesanmateo.org",
+        "type": "Food Pantry",
+        "latitude" : 37.531050,
+        "longitude" : -122.288160,
+        "bio": "For nearly 50 years, Samaritan House has provided the most basic core services of food, clothing, housing resources, and medical and dental care to persons in need. Those seeking help are quickly assessed so appropriate services can be determined and provided. After the immediate need is met, we go a step further to offer additional services, including case management, financial assistance, and, financial empowerment services, that enhance well-being and improve self-sufficiency. And all services are free!",
+        "imageURL" : "none",
+        "address": "4031 Pacific Blvd., San Mateo, CA 94403",
+        "requirements" : ["None!"],
+        "hours": {
+            "monday" : "9AM-5PM",
+            "tuesday" : "9AM-5PM",
+            "wednesday" : "9AM-5PM",
+            "thursday" : "9AM-5PM",
+            "friday" : "9AM-5PM",
+            "saturday" : "12PM-1PM",
+            "sunday" : "12PM-1PM"
+        }
+    },
+    {
+        "id" : 9,
+        "name": "Miracle Messages",
+        "phoneNumber": "8006477968",
+        "website": "miraclemessages.org",
+        "type": "Social support and reunification services",
+        "latitude" : 37.78358,
+        "longitude" : -122.40645,
+        "bio": "We help unhoused neighbors rebuild their social support systems and financial security, primarily through family reunifications, a phone buddy system, and direct cash transfers. Our services are available anywhere.",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/foodfiner-b0be7.appspot.com/o/MiracleMessages_Black%20-%20Colette%20Lay.png?alt=media&token=547f0f9b-f779-4d24-8802-189cec2c9daa",
+        "address": "845 Market Street, San Francisco, CA 94103",
+        "requirements": ["Must be 18+"],
+        "hours": {
+            "monday" : "24 hours",
+            "tuesday" : "24 hours",
+            "wednesday" : "24 hours",
+            "thursday" : "24 hours",
+            "friday" : "24 hours",
+            "saturday" : "24 hours",
+            "sunday" : "24 hours"
+        }
+    },
+    {
+        "id" : 10,
+        "name": "Care Through Touch",
+        "phoneNumber": "4153440302",
+        "website": "www.carethroughtouch.org",
+        "type": "massage therapy",
+        "latitude" : 37.78007,
+        "longitude" : -122.40754,
+        "bio": "We provide free, seated massage therapy to those experiencing or at risk for homelessness. We welcome you just as you are! See our other locations and schedule at http://www.carethroughtouch.org/schedule-1",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/foodfiner-b0be7.appspot.com/o/_CTI_Logo_Circle%20-%20Renee%20Kolb.JPG?alt=media&token=c00cb582-4870-45e4-8e1a-427dac1576b3",
+        "address" : "169 6th St, San Francisco, CA 94103",
+        "requirements" : ["None!"],
+        "hours": {
+            "monday" : "varies; see website",
+            "tuesday" : "varies; see website",
+            "wednesday" : "varies; see website",
+            "thursday" : "varies; see website",
+            "friday" : "varies; see website",
+            "saturday" : "varies; see website",
+            "sunday" : "varies; see website"
+        }
+    }
+]
